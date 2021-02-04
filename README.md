@@ -9,4 +9,4 @@ The project replicates the homepage of a website based on a design spec.
 - CSS 3
 
 ## PROJECT STATUS
-In progress.
+Finished
